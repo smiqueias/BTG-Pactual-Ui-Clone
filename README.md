@@ -6,6 +6,7 @@
 </p>
 Clone de duas telas do aplicativo do BTG Pactual Digital.
 ## 📁 Arquitetura do projeto
+
 ```
 src
     ├───core
@@ -23,7 +24,9 @@ src
                 ├───container
                 └───screens
 ```
+
 ## 📱 Imagens
+
 <p float="left">
 <img src="https://i.imgur.com/jgserKk.png" alt="Tela do App" width="300"/>
 <img src="https://i.imgur.com/ejMHE6V.png" alt="Tela do App" width="300"/>
